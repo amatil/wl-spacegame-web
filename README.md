@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Amatil-DevOps/WL%20Learn%20-%20Pipeline/_apis/build/status/amatil.wl-spacegame-web?branchName=master)](https://dev.azure.com/Amatil-DevOps/WL%20Learn%20-%20Pipeline/_build/latest?definitionId=154&branchName=master)
 
 # Contributing
 
